@@ -11,7 +11,7 @@
 
 ```
 $ git init
-$ git remote add origin <repository url>
+$ git remote add origin git@github.com:vlasy/sublime-packages.git
 $ git fetch
 $ git commit -am "added: settings and packages"
 $ git push
@@ -21,7 +21,7 @@ $ git push
 
 ```
 $ git init
-$ git remote add origin <repository url>
+$ git remote add origin git@github.com:vlasy/sublime-packages.git
 $ git fetch
 $ git reset --hard origin/master
 ```

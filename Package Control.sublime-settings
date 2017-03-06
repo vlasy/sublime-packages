@@ -1,3 +1,17 @@
 {
-	"bootstrapped": true
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"GitGutter",
+		"Jedi - Python autocompletion",
+		"Meteor Snippets",
+		"Package Control",
+		"Python Flake8 Lint",
+		"Python PEP8 Autoformat",
+		"SideBarEnhancements",
+		"Theme - Monokai"
+	]
 }
