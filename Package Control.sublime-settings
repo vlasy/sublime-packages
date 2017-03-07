@@ -5,6 +5,8 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
+		"DocBlockr_Python",
 		"Emmet",
 		"GitGutter",
 		"Jedi - Python autocompletion",
@@ -12,6 +14,7 @@
 		"Package Control",
 		"Python Flake8 Lint",
 		"Python PEP8 Autoformat",
+		"requirementstxt",
 		"SideBarEnhancements",
 		"Theme - Monokai"
 	]
