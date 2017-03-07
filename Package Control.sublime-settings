@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Emmet",
 		"GitGutter",
 		"Jedi - Python autocompletion",
 		"Meteor Snippets",
