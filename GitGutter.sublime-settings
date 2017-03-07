@@ -1,0 +1,7 @@
+// GitGutter Settings - User
+{
+    // Determines whether GitGutter shows status information in the status bar.
+    // Set false to disable status information.
+    // Set true to show information using the "status_bar_text" template.
+    "show_status_bar_text": false,
+}
