@@ -9,6 +9,7 @@
 		"DocBlockr_Python",
 		"Emmet",
 		"GitGutter",
+		"HTML-CSS-JS Prettify",
 		"Jedi - Python autocompletion",
 		"Meteor Snippets",
 		"Package Control",
@@ -16,6 +17,7 @@
 		"Python PEP8 Autoformat",
 		"requirementstxt",
 		"SideBarEnhancements",
-		"Theme - Monokai"
+		"Theme - Monokai",
+		"Vue Syntax Highlight"
 	]
 }
