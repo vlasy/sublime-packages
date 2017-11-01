@@ -14,12 +14,12 @@
 		"jQuery",
 		"MarkdownEditing",
 		"Meteor Snippets",
+		"Monokai JSON+",
 		"Package Control",
 		"Python Flake8 Lint",
 		"Python PEP8 Autoformat",
 		"requirementstxt",
 		"SideBarEnhancements",
-		"Theme - Monokai",
 		"Vue Syntax Highlight"
 	]
 }
